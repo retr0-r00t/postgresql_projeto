@@ -1,4 +1,4 @@
-# 🛠️ Sistema Corporativo de Gestão de Suporte de TI (Mini-ITSM)
+# Sistema Corporativo de Gestão de Suporte de TI (Mini-ITSM)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/SQL-Análise_e_Relatórios-005571?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)

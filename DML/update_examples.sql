@@ -23,7 +23,7 @@ UPDATE usuarios
 SET (cargo, dep_id) = ('Coordenador Financeiro', 2)
 WHERE user_id = 1;
 
--- Alteração de Status en todos chamados com um nivel de prioridade
+-- Alteração de Status em todos chamados com um nivel de prioridade
 UPDATE chamados_suporte
 SET status_ch = 'EM_ANALISE'
 WHERE prioridade = 'CRITICA' AND status_ch = 'ABERTO';

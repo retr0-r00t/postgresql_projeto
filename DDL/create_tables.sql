@@ -34,7 +34,7 @@ CREATE TABLE sistemas_modulos (
 );
 
 
---TABLETA DE CHAMADOS
+--TABELA DE CHAMADOS
 CREATE TABLE chamados_suporte(
 	ch_id SERIAL PRIMARY KEY,
 	titulo VARCHAR(100) NOT NULL,

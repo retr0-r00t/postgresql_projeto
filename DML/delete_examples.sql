@@ -9,8 +9,7 @@ BEGIN;
 DELETE FROM chamados_suporte
 WHERE ch_id = 10 AND status_ch = 'RESOLVIDO';
 
--- Caso tudo tenha ocorrido corretamente COMMIT, caso tenha afetado o ID errado
--- ROLLBACK;
+-- Caso tudo tenha ocorrido corretamente aplicamos um COMMIT, caso tenha afetado o ID errado aplicamos ROLLBACK;
 COMMIT;
 ROLLBACK;
 
