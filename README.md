@@ -41,5 +41,6 @@ O sistema é composto por 5 tabelas relacionais:
  ├── 📁 DQL/
  │    ├── basic_queries.sql      # Consultas de rotina (WHERE, ORDER BY, LIMIT)
  │    ├── analytical_queries.sql # Relatórios gerenciais (JOINs, GROUP BY, CTEs/WITH)
- │    └── export_extraction.sql  # Scripts de extração para CSV (COPY / \copy)
+ │    ├── export_extraction.sql  # Scripts de extração para CSV (COPY / \copy)
+ │    └── relatorio_chamados.csv # Relatório de chamados
  └── README.md
