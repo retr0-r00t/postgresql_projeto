@@ -1,4 +1,6 @@
---POPULAÇÃO DAS TABELAS DO DB
+-- ============================
+-- Populcação das Tabelas do DB
+-- ============================
 
 --INSERÇÃO DE DEPARTAMENTOS
 INSERT INTO departamentos (nome_departamento, centro_custo) VALUES

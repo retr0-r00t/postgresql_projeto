@@ -1,4 +1,6 @@
+-- ====================================================
 -- Criação do Database e Tabelas do Projeto postgreesql
+-- ====================================================
 
 --CRIAÇÃO DO DB
 CREATE DATABASE proejeto_postgresql;
