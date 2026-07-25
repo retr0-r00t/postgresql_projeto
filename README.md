@@ -6,7 +6,7 @@
 ## 📌 Sobre o Projeto
 Este projeto simula o banco de dados de um sistema de **Gestão de Chamados e Suporte Técnico Corporativo**. 
 
-O objetivo é demonstrar domínio prático em arquitetura relacional, manipulação de dados e extração de relatórios analíticos utilizando **PostgreSQL**, auxiliando no diagnóstico de incidentes, controle de SLAs e monitoramento de falhas em sistemas corporativos e módulos ERP.
+O objetivo é demonstrar domínio prático em arquitetura relacional, manipulação de dados e extração de relatórios analíticos utilizando **PostgreSQL**, auxiliando no diagnóstico de incidentes, controle de SLAs e monitoramento de falhas em sistemas corporativos.
 
 ---
 
