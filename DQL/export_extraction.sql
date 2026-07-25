@@ -14,7 +14,7 @@ COPY (
     FROM chamados_suporte c
     JOIN usuarios u ON c.user_id = u.user_id
     JOIN sistemas_modulos s ON c.sys_id = s.sys_id
-    WHERE c.status_ch = ('ABERTO', 'EM_ANALISE')
+    WHERE status_ch IN ('ABERTO', 'EM_ANALISE')
 )
 TO 'C:/Users/Public/relatorio_chamados.csv' 
 WITH CSV HEADER DELIMITER ';';
