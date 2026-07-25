@@ -13,7 +13,7 @@ O objetivo é demonstrar domínio prático em arquitetura relacional, manipulaç
 ## 🎯 Habilidades Demonstradas
 - **DDL (Data Definition Language):** Criação de tabelas normatizadas, chaves primárias (`PK`), chaves estrangeiras (`FK`) e regras de integridade (`ON DELETE RESTRICT/CASCADE`).
 - **DML (Data Manipulation Language):** Povoamento de dados com cenários reais de Help Desk, além de atualizações e exclusões seguras utilizando transações (`BEGIN`, `COMMIT`, `ROLLBACK`).
-- **DQL (Data Query Language):** Consultas avançadas utilizando `JOIN`, `GROUP BY`, agregações e CTEs (`WITH`) para extração de relatórios operacionais.
+- **DQL (Data Query Language):** Consultas analíticas utilizando `JOIN`, `GROUP BY` para relatórios gerenciais, e extração de dados em `.csv` utilizando o comando `COPY`.
 
 ---
 
