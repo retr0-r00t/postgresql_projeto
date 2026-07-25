@@ -1,6 +1,6 @@
 -- Criação do Database e Tabelas do Projeto postgreesql
 
---CRIOAÇÃO DO DB
+--CRIAÇÃO DO DB
 CREATE DATABASE proejeto_postgresql;
 
 --TABELA DE DEPARTAMENTOS
