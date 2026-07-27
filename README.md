@@ -1,4 +1,4 @@
-# Sistema Corporativo de Gestão de Suporte de TI (Mini-ITSM)
+# Sistema Corporativo de Gestão de Suporte de TI (Mini-ITSM) 🐬
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/SQL-Análise_e_Relatórios-005571?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
@@ -6,7 +6,7 @@
 ## 📌 Sobre o Projeto
 Este projeto simula o banco de dados de um sistema de **Gestão de Chamados e Suporte Técnico Corporativo**. 
 
-O objetivo é demonstrar domínio prático em arquitetura relacional, manipulação de dados e extração de relatórios analíticos utilizando **PostgreSQL**, auxiliando no diagnóstico de incidentes, controle de SLAs e monitoramento de falhas em sistemas corporativos e módulos ERP.
+O objetivo é demonstrar domínio prático em arquitetura relacional, manipulação de dados e extração de relatórios analíticos utilizando **PostgreSQL**, auxiliando no diagnóstico de incidentes, controle de SLAs e monitoramento de falhas em sistemas corporativos.
 
 ---
 
